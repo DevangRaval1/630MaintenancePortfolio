@@ -8,9 +8,9 @@ Below is the work I have done for CSCI630 class at CSU Chico.
 
 ### Highlights
 - Coordinated with the frontend and testing team
-- Dynamically generate data on sales page (https://github.com/ChicoState/PantryNode/pull/135)
-- Set up Testing CI (https://github.com/ChicoState/PantryNode/pull/169)
-- Created forgot password UI (https://github.com/ChicoState/PantryNode/pull/197)
+- [Dynamically generate data on sales page](https://github.com/ChicoState/PantryNode/pull/135)
+- [Set up Testing CI](https://github.com/ChicoState/PantryNode/pull/169)
+- [Created forgot password UI](https://github.com/ChicoState/PantryNode/pull/197)
 
 ### PantryNode
 
