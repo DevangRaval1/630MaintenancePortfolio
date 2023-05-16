@@ -25,6 +25,8 @@ Below is the work I have done for CSCI630 class at CSU Chico.
   | Code Review & Research               | [https://github.com/ChicoState/PantryNode/pull/39](https://github.com/ChicoState/PantryNode/pull/39)   | Dependabot - Bump minimist from 1.2.5 to 1.2.8                  |
 | Code Review & Research               | [https://github.com/ChicoState/PantryNode/pull/60](https://github.com/ChicoState/PantryNode/pull/60)   | Dependabot - Bump webpack from 5.75.0 to 5.76.1                 |
 | Code Review & Research               | [https://github.com/ChicoState/PantryNode/pull/63](https://github.com/ChicoState/PantryNode/pull/63)   | Dependabot - Bump ansi-regex from 4.1.0 to 4.1.1                |
+| | |
+| | |
 | Code Review               | [https://github.com/ChicoState/PantryNode/pull/75](https://github.com/ChicoState/PantryNode/pull/75)  | Add infrastructure for automated testing                      |
   | Code Review               | [https://github.com/ChicoState/PantryNode/pull/79](https://github.com/ChicoState/PantryNode/pull/79)  | Routing and Navigation for React                       |
 | Code Review & Discussion               | [https://github.com/ChicoState/PantryNode/pull/84](https://github.com/ChicoState/PantryNode/pull/84)    | Add Sign Up and Login Pages (#66)                       |
@@ -36,17 +38,23 @@ Below is the work I have done for CSCI630 class at CSU Chico.
 | Issue               | [https://github.com/ChicoState/PantryNode/issues/102](https://github.com/ChicoState/PantryNode/issues/102)    | List Sale Items based on category selected on Sales Report page           |
 | Code Review & Discussion              | [https://github.com/ChicoState/PantryNode/pull/105](https://github.com/ChicoState/PantryNode/pull/105)    | Feature/donar page static                       |
 | Code Review               | [https://github.com/ChicoState/PantryNode/pull/115](https://github.com/ChicoState/PantryNode/pull/115)    | Donor page improvements #77                       |
+| | |
+| | |
   | Code Review & Discussion              | [https://github.com/ChicoState/PantryNode/pull/124](https://github.com/ChicoState/PantryNode/pull/124)    | Added formik to register page. Fixed issue #123           |
 | Code Review & Discussion              | [https://github.com/ChicoState/PantryNode/pull/125](https://github.com/ChicoState/PantryNode/pull/125)    | Rebase Frontend with main branch                       |
   | Helped         | [https://github.com/ChicoState/PantryNode/pull/128](https://github.com/ChicoState/PantryNode/pull/128)    | Removed mongoose: 5.9.11 from package.json as we are migrating to Postgre SQL  |
 | Code Review & Discussion| [https://github.com/ChicoState/PantryNode/pull/131](https://github.com/ChicoState/PantryNode/pull/131)    | Removed mongoose: 5.9.11 from package.json as we are migrating to Postgre SQL |
 | Discussion               | [https://github.com/ChicoState/PantryNode/pull/133](https://github.com/ChicoState/PantryNode/pull/133)    | Dynamically rendering sales table data                       |
 | Commits     | [https://github.com/ChicoState/PantryNode/pull/135](https://github.com/ChicoState/PantryNode/pull/135)    | Implementation of List Sale Items based on category selected on Sales Report page #102  |
+| | |
+| | |
 | Issue              | [https://github.com/ChicoState/PantryNode/issues/136](https://github.com/ChicoState/PantryNode/issues/136)    | Create Forgot password interface in Frontend.                       |
 | Code Review & Discussion              | [https://github.com/ChicoState/PantryNode/pull/137](https://github.com/ChicoState/PantryNode/pull/137)    | Donor page improvements#77                       |
 | Pull Request & Commits              | [https://github.com/ChicoState/PantryNode/pull/138](https://github.com/ChicoState/PantryNode/pull/138)    | Adding mongoose dependancy again                       |
 | Pull Request & Commits               | [https://github.com/ChicoState/PantryNode/pull/168](https://github.com/ChicoState/PantryNode/pull/168)    | Testing CI test                      |
 | Pull Request & Commits               | [https://github.com/ChicoState/PantryNode/pull/169](https://github.com/ChicoState/PantryNode/pull/169)    | Set up Testing Ci for main branch                       |
+| | |
+| | |
 | Commits               | [https://github.com/ChicoState/PantryNode/pull/197](https://github.com/ChicoState/PantryNode/pull/197)    | Made all the components for forgot password pages frontend                  |
 | Issue               | [https://github.com/ChicoState/PantryNode/issues/204](https://github.com/ChicoState/PantryNode/issues/204)    | Test Sales Page Frontend                       |
 | Issue               | [https://github.com/ChicoState/PantryNode/issues/205](https://github.com/ChicoState/PantryNode/issues/205)    | Testing sales.js backend                       |
